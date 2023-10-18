@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+  }
+  
+  #small {
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    /* box-sizing: border-box; */
+    margin: 100px auto;
+  }
+  
+  #medium {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    margin: 100px auto;
+  }
+  
+  #large {
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+    margin: 100px auto;
+  }
